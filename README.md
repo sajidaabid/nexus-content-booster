@@ -1,26 +1,20 @@
-# Nexus Content Booster
+ Nexus Content Booster: Enterprise AI Automation Engine
 
-Core automation engine for Nexus Automation Agency.
+**Nexus Content Booster is a high-performance, proprietary automation engine designed for scaling businesses and agencies.**
 
-## 🚀 Overview
+### 🛑 NOTICE: COMMERCIAL USE ONLY
+This project is **NOT** open-source for commercial use. The source code is protected under the **Nexus Commercial License (NCL)**. Unauthorized distribution, cloning for commercial gain, or resale is strictly prohibited.
 
-Nexus Content Booster is a high-performance automation tool designed to streamline content workflows and boost digital reach. We help agencies and businesses save time by automating repetitive tasks, allowing you to focus on high-value creative strategy.
+### Why Partner with Nexus Automation?
+We don't just provide code; we deploy revenue-generating systems.
+* **Efficiency:** Reduce manual operational time by 30-50%.
+* **Scalability:** Automate lead management and content deployment seamlessly.
+* **Performance:** Optimized for growth-focused agencies and tech-forward businesses.
 
-## 💡 Why Use Nexus Content Booster?
+### How to Get Started
+This engine is available for **custom deployment only**. We do not provide public access to the source code.
+1. **Discovery:** Are you looking for custom automation solutions to scale your business?
+2. **Deployment:** We build, integrate, and maintain the system specifically for your tech stack.
+3. **Contact:** To request a professional deployment and obtain a commercial license, contact: **sajidaabidofficial@gmail.com**
 
-*   **Efficiency:** Reduce manual operational time by 30-50%.
-*   **Scalability:** Automate lead management and content deployment seamlessly.
-*   **Performance:** Optimized for growth-focused agencies and tech-forward businesses.
-
-## 🛠 Features
-
-*   **Workflow Automation:** Eliminates bottleneck tasks.
-*   **Custom Integration:** Easily connects with your existing tech stack.
-*   **Data-Driven:** Designed to scale with your content demands.
-
-## 🤝 Let's Collaborate
-
-Are you looking for custom automation solutions to scale your business? As the founder of Nexus Automation, I specialize in building Python-based systems that drive revenue.
-
-[Connect with me on LinkedIn](https://linkedin.com/in/sajida-abid-malik-a44415365) 
- 
+[Connect with me on LinkedIn](https://linkedin.com/in/sajida-abid-malik-a44415365)
